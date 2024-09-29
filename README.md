@@ -1,2 +1,2 @@
-# html-portfolio
-Grahampaul
+# html-Grahampaul
+Portfolio
